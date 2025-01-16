@@ -13,6 +13,7 @@ public class Client {
         order2.getFoodDic().put("尖椒肉丝盖饭",1);
         order2.getFoodDic().put("小杯雪碧",1);
 
+        // TODO 对不同接收者(厨师)进行区分
         //创建接收者
         SeniorChef receiver=new SeniorChef();
         //将订单和接收者封装成命令对象
