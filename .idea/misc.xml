@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/create-type/pom.xml" />
         <option value="$PROJECT_DIR$/structure-type/pom.xml" />
         <option value="$PROJECT_DIR$/behavior/pom.xml" />
+        <option value="$PROJECT_DIR$/email/pom.xml" />
       </list>
     </option>
   </component>
